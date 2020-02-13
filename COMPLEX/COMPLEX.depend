@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460210330 source:f:\projects\cppprog\complex\main.cpp
+	<iostream>
+	<math.h>
+

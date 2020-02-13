@@ -1,0 +1,977 @@
+2016-10-14 13:45:59,712 [main] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-14 13:45:59,712 [main] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-14 13:45:59,713 [main] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-14 13:45:59,715 [main] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-14 13:46:02,411 [main] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-14 13:46:02,598 [main] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-14 13:46:02,602 [main] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-14 13:46:02,603 [main] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-14 13:46:02,607 [main] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-14 13:46:02,608 [main] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-14 13:46:02,614 [main] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-14 13:46:02,614 [main] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-14 13:46:58,005 [main] DEBUG class java.lang.Class - Starting DDMS facade using listener...
+2016-10-14 13:46:58,010 [main] DEBUG class java.lang.Class - DDMS facade started using listener.
+2016-10-14 13:47:11,259 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,260 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,260 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,261 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,262 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,262 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,263 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,264 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,266 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-14 13:47:11,266 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-14 13:58:05,651 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-14 13:58:05,716 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk837764579/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-14 13:58:05,846 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-14 13:58:05,846 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk837764579/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-14 13:58:05,847 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-14 13:58:05,857 [main] INFO  Studio for Android - Created a JDBC driver instance at Data Tools.
+2016-10-14 13:58:05,865 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-14 13:58:05,866 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-14 13:58:05,868 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-14 13:58:06,840 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-14 13:58:06,872 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-14 13:58:06,872 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-14 13:58:06,873 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-15 18:12:16,319 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-15 18:12:16,350 [Worker-3] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-15 18:12:16,350 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-15 18:12:16,350 [Worker-3] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-15 18:12:16,382 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-15 18:12:16,414 [Worker-3] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-15 18:12:29,629 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-15 18:12:29,629 [Worker-3] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-15 18:12:29,645 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-15 18:12:29,645 [Worker-3] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-15 18:12:29,658 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-15 18:12:29,664 [Worker-3] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-15 18:12:29,715 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,716 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,716 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,717 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,718 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,719 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,719 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,722 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,722 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,722 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,723 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,724 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,724 [Worker-3] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-15 18:12:29,724 [Worker-3] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-15 18:22:13,509 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-15 18:22:13,591 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-15 18:22:13,592 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-15 18:22:13,592 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-15 18:22:13,592 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-15 18:22:13,597 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-15 18:22:13,597 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-15 18:22:13,599 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-15 18:22:14,617 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-15 18:22:14,628 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-15 18:22:14,628 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-15 18:22:14,629 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-15 18:23:40,771 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-15 18:23:40,771 [Worker-4] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-15 18:23:40,771 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-15 18:23:40,771 [Worker-4] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-15 18:23:40,802 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-15 18:23:40,824 [Worker-4] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-15 18:23:53,113 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-15 18:23:53,113 [Worker-4] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-15 18:23:53,132 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-15 18:23:53,133 [Worker-4] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-15 18:23:53,142 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-15 18:23:53,145 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-15 18:23:53,160 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,161 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,162 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,163 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,163 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,163 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,163 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,163 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,164 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,165 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,165 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-15 18:23:53,165 [Worker-4] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-15 18:23:53,166 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-15 18:24:13,759 [Worker-5] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-15 18:24:47,181 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-15 18:24:47,183 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-15 18:24:47,268 [main] ERROR class org.eclipse.andmore.android.emulator.device.ui.wizard.WizardMainPageOperation - Could not create AVD: system
+org.eclipse.core.runtime.CoreException: Could not create the Android Virtual Device: system
+	at org.eclipse.andmore.android.SdkUtils.createVm(SdkUtils.java:409)
+	at org.eclipse.andmore.android.emulator.device.ui.wizard.WizardMainPageOperation.run(WizardMainPageOperation.java:52)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:993)
+	at org.eclipse.sequoyah.device.framework.ui.wizard.DeviceTypeCustomMenuWizardPageHandler.performFinish(Unknown Source)
+	at org.eclipse.sequoyah.device.framework.ui.wizard.NewDeviceMenuWizard.performFinish(Unknown Source)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.andmore.android.emulator.device.handlers.OpenNewDeviceWizardHandler$1.run(OpenNewDeviceWizardHandler.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:396)
+	at org.eclipse.andmore.AndmoreAndroidPlugin$6$1.run(AndmoreAndroidPlugin.java:1226)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.dialogs.WorkbenchPreferenceDialog.open(WorkbenchPreferenceDialog.java:211)
+	at org.eclipse.ui.internal.handlers.ShowPreferencePageHandler.execute(ShowPreferencePageHandler.java:59)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:353)
+	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.executeCommand(IntroURL.java:337)
+	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:199)
+	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL$1.run(IntroURL.java:145)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:142)
+	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+	at org.eclipse.swt.browser.IE$7.handleEvent(IE.java:547)
+	at org.eclipse.swt.ole.win32.OleEventTable.sendEvent(OleEventTable.java:55)
+	at org.eclipse.swt.ole.win32.OleEventSink.notifyListener(OleEventSink.java:156)
+	at org.eclipse.swt.ole.win32.OleEventSink.Invoke(OleEventSink.java:124)
+	at org.eclipse.swt.ole.win32.OleEventSink.access$1(OleEventSink.java:101)
+	at org.eclipse.swt.ole.win32.OleEventSink$1.method6(OleEventSink.java:75)
+	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:119)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3814)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+2016-10-15 18:25:01,173 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-15 18:25:01,209 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-15 18:25:01,209 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-15 18:25:01,209 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-15 18:25:01,209 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-15 18:25:01,218 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-15 18:25:01,218 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-15 18:25:01,221 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-15 18:25:02,098 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-15 18:25:02,106 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-15 18:25:02,106 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-15 18:25:02,106 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-16 16:52:10,855 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-16 16:52:10,879 [Worker-4] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-16 16:52:10,880 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-16 16:52:10,882 [Worker-4] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-16 16:52:10,922 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-16 16:52:10,952 [Worker-4] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-16 16:52:11,005 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-16 16:52:11,006 [Worker-4] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-16 16:52:11,009 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-16 16:52:11,009 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-16 16:52:11,017 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-16 16:52:11,018 [Worker-4] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-16 16:52:11,043 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-16 16:52:11,049 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 16:52:25,165 [Worker-5] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 16:52:26,751 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,752 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,752 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,752 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,752 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,753 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,754 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 16:52:26,755 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-16 16:52:26,756 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-16 17:32:05,741 [Worker-6] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 17:38:29,539 [Worker-26] DEBUG class java.lang.Class - Starting Andmore Launch Plugin...
+2016-10-16 17:38:29,539 [Worker-26] DEBUG class java.lang.Class - Andmore Launch Plugin started.
+2016-10-16 17:40:45,238 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,239 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,240 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:40:45,241 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:46:50,334 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-16 17:46:50,395 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 17:46:50,396 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 17:46:50,396 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 17:46:50,396 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 17:46:50,402 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-16 17:46:50,402 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-16 17:46:50,406 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-16 17:46:51,295 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-16 17:46:51,326 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-16 17:46:51,327 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-16 17:46:51,327 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-16 17:47:14,008 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-16 17:47:14,008 [Worker-4] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-16 17:47:14,009 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-16 17:47:14,015 [Worker-4] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-16 17:47:14,079 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-16 17:47:14,110 [Worker-4] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-16 17:47:14,136 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-16 17:47:14,136 [Worker-4] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-16 17:47:14,139 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-16 17:47:14,140 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-16 17:47:14,146 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-16 17:47:14,146 [Worker-4] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-16 17:47:14,167 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-16 17:47:14,168 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 17:47:24,402 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,402 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,403 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,404 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,405 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,406 [Worker-4] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-16 17:47:24,406 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-16 17:47:25,032 [Worker-8] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 17:47:26,971 [Worker-10] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 17:47:27,949 [Device List Monitor] DEBUG Studio for Android - Device disconnected: YT910S3W03
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,649 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,650 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,651 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,652 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,653 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,654 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,655 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,655 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,655 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,655 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:53:58,655 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 17:57:28,087 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-16 17:57:28,128 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 17:57:28,128 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 17:57:28,128 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1970707120/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 17:57:28,129 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 17:57:28,136 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-16 17:57:28,137 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-16 17:57:28,139 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-16 17:57:29,278 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-16 17:57:29,293 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-16 17:57:29,293 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-16 17:57:29,293 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-16 17:58:19,031 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-16 17:58:19,031 [Worker-1] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-16 17:58:19,032 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-16 17:58:19,033 [Worker-1] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-16 17:58:19,051 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-16 17:58:19,069 [Worker-1] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-16 17:58:19,092 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-16 17:58:19,092 [Worker-1] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-16 17:58:19,097 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-16 17:58:19,097 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-16 17:58:19,105 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-16 17:58:19,105 [Worker-1] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-16 17:58:19,149 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-16 17:58:19,160 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 17:58:19,415 [Worker-2] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 17:58:23,944 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,945 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,946 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,947 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 17:58:23,948 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-16 17:58:23,948 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-16 17:58:23,948 [Worker-1] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-16 17:58:23,949 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-16 17:58:26,545 [Worker-16] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 18:02:51,292 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-16 18:02:51,328 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 18:02:51,328 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 18:02:51,328 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 18:02:51,328 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 18:02:51,336 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-16 18:02:51,336 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-16 18:02:51,340 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-16 18:02:52,230 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-16 18:02:52,242 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-16 18:02:52,242 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-16 18:02:52,243 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-16 21:37:16,912 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-16 21:37:16,934 [Worker-5] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-16 21:37:16,935 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-16 21:37:16,955 [Worker-5] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-16 21:37:17,013 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-16 21:37:17,042 [Worker-5] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-16 21:37:17,094 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-16 21:37:17,094 [Worker-5] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-16 21:37:17,112 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-16 21:37:17,112 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-16 21:37:17,233 [Worker-5] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-16 21:37:17,233 [Worker-5] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-16 21:37:17,262 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-16 21:37:17,264 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 21:37:30,978 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,978 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,978 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,979 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,980 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,981 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,982 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,982 [Worker-5] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-16 21:37:30,982 [Worker-5] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-16 21:37:35,887 [Worker-15] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,980 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,981 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,982 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:39:55,983 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:42:07,323 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2016-10-16 21:42:07,494 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: OFF
+2016-10-16 21:42:07,494 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 21:42:08,590 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.offlineNoData
+2016-10-16 21:42:08,591 [Device List Monitor] INFO  Studio for Android - The TmL Instance is not started/Starting, but the emulator/VM is already online. Execute a dummy start service to force a transition to start status...
+2016-10-16 21:42:08,594 [Device List Monitor] INFO  Studio for Android - Try to get Timeout property from Sony-t2-ultra
+2016-10-16 21:42:08,626 [Device List Monitor] DEBUG Studio for Android - Retrieved start logic: org.eclipse.andmore.android.emulator10.StartAndroidEmulatorLogic@feafaab
+2016-10-16 21:42:08,626 [Device List Monitor] DEBUG Studio for Android - Finished Execution of the start emulator service... :Sony-t2-ultra Status => Status OK: unknown code=0 OK null
+2016-10-16 21:42:08,627 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.online
+2016-10-16 21:42:08,627 [Device List Monitor] INFO  Studio for Android - Added instance Sony-t2-ultra using default emulator definitions 
+2016-10-16 21:42:08,627 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2016-10-16 21:42:08,648 [Instance Event Manager] INFO  Studio for Android - The emulator Sony-t2-ultra transitioned to started state. Try to estabilish a VNC connection...
+2016-10-16 21:42:15,558 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,087 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,088 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,089 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,090 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,091 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,092 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,092 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,092 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,092 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,092 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,095 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,096 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 21:50:52,097 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2016-10-16 22:23:19,447 [main] DEBUG class java.lang.Class - Starting Andmore Launch Plugin...
+2016-10-16 22:23:19,447 [main] DEBUG class java.lang.Class - Andmore Launch Plugin started.
+2016-10-16 22:23:19,782 [Worker-28] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: com.example.myfirst.MainActivity mode:run launch: org.eclipse.andmore.internal.launch.AndroidLaunch@606d1f36
+2016-10-16 22:23:19,784 [Worker-28] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: Sony-t2-ultra
+2016-10-16 22:23:19,816 [Worker-28] ERROR class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Error while lauching com.example.myfirst.MainActivity
+org.eclipse.core.runtime.CoreException: Could not retrieve AVD instance: Sony-t2-ultra
+	at org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:398)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:731)
+	at org.eclipse.andmore.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2016-10-16 22:23:31,928 [Worker-1] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: com.example.myfirst.MainActivity mode:run launch: org.eclipse.andmore.internal.launch.AndroidLaunch@40020dcc
+2016-10-16 22:23:31,933 [Worker-1] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: Sony-t2-ultra
+2016-10-16 22:23:31,935 [Worker-1] ERROR class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Error while lauching com.example.myfirst.MainActivity
+org.eclipse.core.runtime.CoreException: Could not retrieve AVD instance: Sony-t2-ultra
+	at org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:398)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:731)
+	at org.eclipse.andmore.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2016-10-16 22:24:51,154 [Device List Monitor] DEBUG Studio for Android - Device connected: YT910S3W03
+2016-10-16 22:25:01,285 [Device List Monitor] DEBUG Studio for Android - Device changed: YT910S3W03
+2016-10-16 22:26:02,640 [Worker-28] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: com.example.myfirst.MainActivity mode:run launch: org.eclipse.andmore.internal.launch.AndroidLaunch@700e2d7a
+2016-10-16 22:26:02,644 [Worker-28] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: Sony-t2-ultra
+2016-10-16 22:26:02,646 [Worker-28] ERROR class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Error while lauching com.example.myfirst.MainActivity
+org.eclipse.core.runtime.CoreException: Could not retrieve AVD instance: Sony-t2-ultra
+	at org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:398)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:731)
+	at org.eclipse.andmore.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2016-10-16 22:26:45,357 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2016-10-16 22:26:46,563 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2016-10-16 22:26:52,807 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2016-10-16 22:31:36,429 [Device List Monitor] DEBUG Studio for Android - Device disconnected: YT910S3W03
+2016-10-16 22:31:40,531 [Device List Monitor] DEBUG Studio for Android - Device connected: YT910S3W03
+2016-10-16 22:31:50,646 [Device List Monitor] DEBUG Studio for Android - Device changed: YT910S3W03
+2016-10-16 22:37:25,340 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-16 22:37:25,414 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 22:37:25,414 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 22:37:25,414 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-16 22:37:25,414 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-16 22:37:25,423 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-16 22:37:25,424 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-16 22:37:25,426 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-16 22:37:26,706 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-16 22:37:26,761 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-16 22:37:26,762 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-16 22:37:26,762 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2016-10-16 22:37:51,173 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2016-10-16 22:37:51,174 [Worker-6] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2016-10-16 22:37:51,175 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2016-10-16 22:37:51,179 [Worker-6] DEBUG class java.lang.Class - Andmore Plugin started.
+2016-10-16 22:37:51,247 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2016-10-16 22:37:51,276 [Worker-6] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2016-10-16 22:37:51,295 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2016-10-16 22:37:51,295 [Worker-6] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2016-10-16 22:37:51,299 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2016-10-16 22:37:51,299 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2016-10-16 22:37:51,308 [Worker-6] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2016-10-16 22:37:51,308 [Worker-6] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2016-10-16 22:37:51,339 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: OFF
+2016-10-16 22:37:51,342 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: OFF
+2016-10-16 22:37:51,351 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 22:37:51,351 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: system Status: org.eclipse.andmore.android.emulator.status.notavailable
+2016-10-16 22:38:02,344 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,344 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,344 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,345 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,345 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,345 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,345 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,346 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,347 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2016-10-16 22:38:02,348 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2016-10-16 22:38:02,348 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2016-10-16 22:38:02,349 [Worker-6] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2016-10-16 22:38:05,574 [Worker-5] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2016-10-16 22:38:06,012 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.offline
+2016-10-16 22:43:11,480 [Device List Monitor] DEBUG Studio for Android - Device disconnected: YT910S3W03
+2016-10-16 23:52:03,166 [Device List Monitor] DEBUG Studio for Android - Device connected: YT910S3W03
+2016-10-16 23:52:13,284 [Device List Monitor] DEBUG Studio for Android - Device changed: YT910S3W03
+2016-10-16 23:52:57,275 [Device List Monitor] DEBUG Studio for Android - Device disconnected: YT910S3W03
+2016-10-16 23:57:56,603 [Worker-27] DEBUG class java.lang.Class - Starting Andmore Launch Plugin...
+2016-10-16 23:57:56,603 [Worker-27] DEBUG class java.lang.Class - Andmore Launch Plugin started.
+2016-10-16 23:57:57,458 [Worker-27] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: com.example.myfirst.MainActivity mode:run launch: org.eclipse.andmore.internal.launch.AndroidLaunch@5b410c10
+2016-10-16 23:57:57,461 [Worker-27] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Needs to Start the AVD instance before launching... 
+2016-10-16 23:57:57,464 [Worker-27] INFO  Studio for Android - Try to get Timeout property from Sony-t2-ultra
+2016-10-16 23:57:57,509 [Worker-27] DEBUG Studio for Android - Retrieved start logic: org.eclipse.andmore.android.emulator10.StartAndroidEmulatorLogic@71bedbe7
+2016-10-16 23:57:57,514 [Worker-27] INFO  Studio for Android - Executing StartEmulatorProcessLogic for Sony-t2-ultra
+2016-10-16 23:57:57,514 [Worker-27] INFO  Studio for Android - Starting the Android Emulator process: Sony-t2-ultra
+2016-10-16 23:57:57,550 [Worker-27] INFO  Studio for Android - Executing command /tools/emulator-arm -avd Sony-t2-ultra 
+2016-10-16 23:57:57,560 [Worker-27] INFO  Studio for Android - Wait until and emulator with the VM Sony-t2-ultra is up 
+2016-10-16 23:57:57,604 [Worker-27] DEBUG Studio for Android - Emulator instance is now up and running... Sony-t2-ultra
+2016-10-16 23:57:57,604 [Worker-27] DEBUG Studio for Android - Finished Execution of the start emulator service... :Sony-t2-ultra Status => Status OK: unknown code=0 OK null
+2016-10-16 23:57:57,604 [Worker-27] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Status of the launch service: Status OK: unknown code=0 OK null
+2016-10-16 23:57:57,604 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Sony-t2-ultra Status: org.eclipse.andmore.android.emulator.status.online
+2016-10-16 23:57:57,605 [Instance Event Manager] INFO  Studio for Android - The emulator Sony-t2-ultra transitioned to started state. Try to estabilish a VNC connection...
+2016-10-16 23:58:19,796 [Device List Monitor] DEBUG Studio for Android - Device connected: emulator-5554
+2016-10-16 23:58:21,081 [Device List Monitor] INFO  Studio for Android - New Device connected at emulator-5554
+2016-10-16 23:58:41,541 [Device List Monitor] DEBUG Studio for Android - Device changed: emulator-5554
+2016-10-16 23:58:47,793 [Device List Monitor] DEBUG Studio for Android - Device disconnected: emulator-5554
+2016-10-17 00:06:43,328 [Worker-32] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Launch Android Application using Studio for Android wizard. Configuration: com.example.myfirst.MainActivity mode:run launch: org.eclipse.andmore.internal.launch.AndroidLaunch@41e6b0af
+2016-10-17 00:06:43,332 [Worker-32] INFO  class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - AVD where the application will be executed: Sony-t2-ultra
+2016-10-17 00:06:43,355 [Worker-32] ERROR class org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate - Error while lauching com.example.myfirst.MainActivity
+org.eclipse.core.runtime.CoreException: Could not retrieve AVD instance: Sony-t2-ultra
+	at org.eclipse.andmore.android.launch.StudioAndroidConfigurationDelegate.launch(StudioAndroidConfigurationDelegate.java:398)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:731)
+	at org.eclipse.andmore.android.launch.LaunchConfigurationShortcut$1.run(LaunchConfigurationShortcut.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2016-10-17 00:26:42,288 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2016-10-17 00:26:42,315 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-17 00:26:42,315 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-17 00:26:42,315 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1026001741/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/SEAN/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2016-10-17 00:26:42,315 [main] DEBUG Studio for Android - JDBC Driver Path:G:\PROGRAMS_FILE\android-neon\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2016-10-17 00:26:42,321 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2016-10-17 00:26:42,321 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2016-10-17 00:26:42,323 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2016-10-17 00:26:43,342 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2016-10-17 00:26:43,356 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2016-10-17 00:26:43,356 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2016-10-17 00:26:43,356 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476464587 source:f:\projects\cppprog\inodec\main.cpp
+	<iostream>
+	<sys/stat.h>
+	<dirent.h>
+	<time.h>
+	<sys/types.h>
+

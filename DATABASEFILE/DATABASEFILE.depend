@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459619337 source:f:\projects\cppprog\databasefile\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

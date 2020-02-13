@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459602550 source:f:\projects\cppprog\personaldatabase\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

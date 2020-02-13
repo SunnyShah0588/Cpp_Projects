@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459838496 source:f:\projects\cppprog\stllist\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+

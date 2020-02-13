@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459618047 source:f:\projects\cppprog\matrixmul\main.cpp
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+

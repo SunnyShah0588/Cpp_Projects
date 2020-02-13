@@ -1,0 +1,37 @@
+void encode(char *ar)
+{
+	int i=0;
+	while(ar[i]!='\n')
+	{
+		if(ar[i]==' ')
+		ar[i]='_';
+		i++;
+	}
+}
+void decode(char *ar)
+{
+	int i=0;
+	while(ar[i]!='\n')
+	{
+		if(ar[i]=='_')
+		ar[i]=' ';
+		i++;
+	}
+}
+
+void DisplayData()
+{
+	FILE *Ques;
+	int i;
+	Ques=fopen("Questions.txt","rb");
+	while(fscanf(Ques,"%s %s %s %s %s %c %c %c %c %d %d %d %d",QL[i].Q_NM,QL[i].Q_OP1,QL[i].Q_OP2,QL[i].Q_OP3,QL[i].Q_OP4;QL[i].Q_ANS,QL[i].Q_FB1,QL[i].Q_FB2,QL[i].Q_FB3,QL[i].Q_CL1,QL[i].Q_CL2,QL[i].Q_CL3,QL[i].Q_CL4)!=EOF)
+  	{
+		decode(QL[i].Q_NM);
+		decode(QL[i].Q_OP1); decode(QL[i].Q_OP2);
+		decode(QL[i].Q_OP3); decode(QL[i].Q_OP4);		
+		i++;
+	}
+	fclose(insert);
+
+}	
+			

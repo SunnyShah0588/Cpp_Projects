@@ -1,0 +1,106 @@
+#include<iostream>
+#include<list>
+#include<stdlib.h>
+
+using namespace std;
+list <int> list1;
+list <int> list2;
+ list <int>::iterator l;
+   int choice,
+
+
+     int n;
+    char y;
+
+void display(list <int> list1){
+
+    list <int> ::iterator l;
+    if (list1.empty()==0){
+
+        for(l=list1.begin();l!=list1.end();l++)
+            cout<<"  "<<*l;
+
+    }else{
+            cout<<"LIST IS EMPTY....";
+    }
+}
+
+int main(){
+
+
+    cout<<"\n ENTER THE NUMBER OF ELEMENTS YOU WISH TO ENTER";
+    cin>>n;
+    do{
+
+        cout<<"\n\t*********MENU***********";
+        cout<<"\n\t1. INSERT LIST";
+        cout<<"\n\t2. SORT LIST";
+        cout<<"\n\t3. REVERSE LIST";
+        cout<<"\n\t4. MERGE LIST";
+        cout<<"\n\t5. SEARCH LIST";
+        cout<<"\n\t6. DISPLAY LIST";
+        cout<<"\n\t7. EXIT";
+        cout<<"\n\t ENTER YOUR CHOICE FROM 1 TO 7\t";
+        cin>>choice;
+
+        switch(choice){
+
+        case 1:  int entery;
+
+                for(int i=0;i<n;i++){
+                    cout<<"\n\tENTER THE LIST ELEMENTS";
+                    cin>>entery;
+                    list1.push_back(entery);
+                }
+                display(list1);
+                break;
+
+        case 2:
+                   list1.sort();
+                   display(list1);
+                   break;
+        case 3:
+                   list1.reverse();
+                   display(list1);
+                   break;
+        case 4:
+                    int m,entery2;
+                   cout<<"\n\t ENTER THE NUMBER OF ELEMENTS IN LIST 2";
+                   cin>>m;
+
+                   for(int i=0;i<m;i++){
+                    cout<<"ENTER THE ELEMENTS OF LIST 2";
+                    cin>>entery2;
+                    list2.push_back(entery2);
+                   }
+                   list2.sort();
+                   list1.merge(list2);
+                   display(list1);
+                   break;
+        case 5:
+                   int element;
+                   cout<<"\n\t ENTER THE ELEMENTS YOU WANT TO SEARCH";
+                   cin>>element;
+                   for(l=list1.begin();l!=list1.end();l++){
+
+                    if (*l=element){
+                        cout<<"ELEMENT YOU ENTERED IS PRESENT";
+                    }else{
+                                cout<<"ELEMENT NOT PRESENT";}
+                   }
+                   break;
+        case 6:
+                 display(list1);
+                 break;
+        case 7:
+                 break;
+        default:
+                  cout<<"\n\t\tOOPS ENTERED WRONG CHOICE";
+
+      cout<<"\n\t DO YOU WISH TO CONTINUE IF YES PRESS Y: ";
+      cin>>y;
+
+        }
+    }while(y=='y'||y=='Y');
+
+}
